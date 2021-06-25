@@ -24,12 +24,12 @@ CRGB leds[NUM_LEDS];
 #define UPDATES_PER_SECOND 100
 
 
-char auth[] = "wegr-qeQy99VzLUwYrb6FGiGr8qVhtba";
+char auth[] = "";//your code
 
 
 // Set password to "" for open networks.
-char ssid[] = "Clarkson Air Central";
-char pass[] = "ScottsdaleOlsons";
+char ssid[] = "";//ssid
+char pass[] = "";//wifi password
 int Brightness = 0;
 int IO = 0;
 int Red = 0;
